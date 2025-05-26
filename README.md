@@ -1,5 +1,7 @@
 # msse642-2025summer
 
+# Assignement 1
+
 ## Git Research Notes
 
 ### Types of Version Control Systems
@@ -31,3 +33,6 @@ The staging area is a place where you prepare changes before committing them.
 ChatGPT
 https://www.slideserve.com/zandra/git-introduction
 https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/
+
+# Assignement 2
+[Assignment 2](./Assignment2Lamphere.md)
