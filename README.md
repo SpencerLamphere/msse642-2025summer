@@ -34,5 +34,6 @@ ChatGPT
 https://www.slideserve.com/zandra/git-introduction
 https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/
 
-# Assignement 2
-[Assignment 2](./Assignment2Lamphere.md)
+# Assignment 2
+[Assignment #2](./Assignment%202/Assignment2Lamphere.md)
+
