@@ -1,6 +1,6 @@
 # msse642-2025summer
 
-# Assignement 1
+# Assignment 1
 
 ## Git Research Notes
 
