@@ -1,9 +1,10 @@
 ## ACTIVITY 1: Configure Visual Studio Code (VSC)
 ![VS Code Screenshot](./Images/VS%20Code.png)
-
+![Extensions](./Images/Extensions.png)
 
 ## ACTIVITY 2: Clone the class repo and add to your VSC Workspace
-
+![Repos 1](./Images/Repos.png)
+![Repos 2](./Images/Repo%20copy.png)
 
 ## Activity 3: Writing a Good README
 
