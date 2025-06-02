@@ -37,3 +37,6 @@ https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-o
 # Assignment 2
 [Assignment #2](./Assignment%202/Assignment2Lamphere.md)
 
+# MSSE642 GitHub Assignment 3
+
+[Assignment #3](./Assignment%203/Assignment3Lamphere.md)
