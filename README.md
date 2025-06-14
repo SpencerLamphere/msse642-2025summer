@@ -40,3 +40,7 @@ https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-o
 # Assignment 3
 
 [Assignment #3](./Assignment%203/Assignment3Lamphere.md)
+
+# Assignment 4
+
+[Assignment #4](./Assignment4/Assignment4Lamphere.md)
