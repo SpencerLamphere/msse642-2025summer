@@ -1,66 +1,73 @@
 # Team C Collaboration File
 
-- Spencer: Repo Owner
-- Ben:
-## Current Branch in Cloned Repo
+## Spencer: Repo Owner
+
+## Ben
+- Link:
+
+### Current Branch in Cloned Repo
 
 
-## File Edit in VS Code
+### File Edit in VS Code
 
 
-## Git Commit
+### Git Commit
 
 
-## Remote URL Verification
+### Remote URL Verification
 
 
-## Push
+### Push
 
 
-## Pull Request
+### Pull Request
 
 
 
-- Thomas:
-## Current Branch in Cloned Repo
+## Thomas
+- Link:
 
-![Cloned Repo](./Assignment%205/Cloned%20Repo.png)
+### Current Branch in Cloned Repo
 
-## File Edit in VS Code
+![Cloned Repo](./Cloned%20Repo.png)
 
-![Edit on Thomas Repo](./Assignment%205/Edit%20on%20Thomas%20Repo.png)
+### File Edit in VS Code
 
-## Git Commit
+![Edit on Thomas Repo](./Edit%20on%20Thomas%20Repo.png)
 
-![Commit Thomas Repo](./Assignment%205/Commit%20Thomas%20Repo.png)
+### Git Commit
 
-## Remote URL Verification
+![Commit Thomas Repo](./Commit%20Thomas%20Repo.png)
 
-![Thomas Remote Repo URL](./Assignment%205/Thomas%20Remote%20Repo%20URL.png)
+### Remote URL Verification
 
-## Push
+![Thomas Remote Repo URL](./Thomas%20Remote%20Repo%20URL.png)
 
-![Push Thomas Repo](./Assignment%205/Push%20Thomas%20Repo.png)
+### Push
 
-## Pull Request
+![Push Thomas Repo](./Push%20Thomas%20Repo.png)
 
-![Pull Request Thomas Repo](./Assignment%205/Pull%20Request%20Thomas%20Repo.png)
+### Pull Request
 
-
-- Nigel:
-## Current Branch in Cloned Repo
+![Pull Request Thomas Repo](./Pull%20Request%20Thomas%20Repo.png)
 
 
-## File Edit in VS Code
+## Nigel
+- Link:
+
+### Current Branch in Cloned Repo
 
 
-## Git Commit
+### File Edit in VS Code
 
 
-## Remote URL Verification
+### Git Commit
 
 
-## Push
+### Remote URL Verification
 
 
-## Pull Request
+### Push
+
+
+### Pull Request
