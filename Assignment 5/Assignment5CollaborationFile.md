@@ -3,7 +3,7 @@
 ## Spencer: Repo Owner
 
 ## Ben
-- Link: Delete this and add your link
+- Link: [Ben's GitHub Repo](https://github.com/b-a-merritt/msse642)
 
 ### Current Branch in Cloned Repo
 
